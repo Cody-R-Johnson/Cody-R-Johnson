@@ -45,7 +45,7 @@ A structured 7-week Blue Team training roadmap with daily hands-on modules cover
 - Week 6: Threat Intelligence
 - Week 7: Incident Response
 
-> Status: Active — Week 1 Complete | Week 2 Complete | Week 3 in progress
+> Status: Active — Week 1 Complete | Week 2 Complete | Week 3 Complete | Week 4 in progress
 
 ---
 
