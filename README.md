@@ -14,15 +14,20 @@ I am working toward SOC analyst and security engineering roles by building real 
 
 ## What I've Learned
 
-- Linux system administration and secure baseline configuration
-- UFW firewall policy and SSH hardening
-- Automated brute-force detection and response with Fail2Ban
-- SIEM deployment and alert rule tuning with Wazuh
-- Network intrusion detection with Suricata
-- Python-based log parsing and attack severity classification
-- SQL-based security log filtering and investigation
+- Linux system administration, secure baseline configuration, and service-level hardening
+- UFW firewall policy design, SSH hardening, and access-control risk reduction
+- Automated brute-force detection and response engineering with Fail2Ban
+- SIEM deployment, alert tuning, and high-severity detection logic with Wazuh
+- Detection engineering fundamentals, including custom rule workflows and alert prioritization
+- Network intrusion detection and telemetry validation with Suricata (`eve.json` analysis)
+- Python-based security log parsing, attack pattern extraction, and severity classification
+- SOC-style investigation workflow: ingest, triage, correlate, validate, document
+- Threat hunting foundations using log pivots, hypothesis-driven analysis, and attacker/defender context
+- Multi-VM attacker/defender lab architecture, network isolation, and controlled simulation testing
+- Security automation fundamentals for repeatable defensive operations
+- SQL-based security log filtering and investigative query analysis
 - Risk and vulnerability assessment frameworks (NIST CSF, NIST SP 800-30)
-- Multi-VM attacker/defender lab design and network isolation
+- Incident analysis documentation with evidence-backed findings and remediation thinking
 
 ---
 
