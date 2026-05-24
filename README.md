@@ -9,7 +9,7 @@ I am working toward SOC analyst and security engineering roles by building real 
 ## What I'm Working On
 
 - **Active homelab** running through multi-phase Linux security engineering — hardening, SIEM deployment, IDS, and offensive testing
-- **7-week Blue Team training program** covering the full SOC skill stack from log collection to incident response
+- **7-week Blue Team training program (completed)** covering the full SOC skill stack from log collection to incident response
 - Building hands-on experience with tools like Wazuh, Suricata, Fail2Ban, and Python log analysis
 
 ## What I've Learned
@@ -50,7 +50,7 @@ A structured 7-week Blue Team training roadmap with daily hands-on modules cover
 - Week 6: Threat Intelligence
 - Week 7: Incident Response
 
-> Status: Active — Week 1 Complete | Week 2 Complete | Week 3 Complete | Week 4 Complete | Week 5 Complete | Week 6 Complete | Week 7 in progress
+> Status: Complete ✅
 
 ---
 
