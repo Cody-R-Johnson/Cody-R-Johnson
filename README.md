@@ -9,7 +9,7 @@ I am working toward SOC analyst and security engineering roles by building real 
 ## What I'm Working On
 
 - **Active homelab** running through multi-phase Linux security engineering — hardening, SIEM deployment, IDS, and offensive testing
-- **7-week Blue Team training program (completed)** covering the full SOC skill stack from log collection to incident response
+- **7-week Red Team training program (active)** covering the full offensive workflow from reconnaissance to advanced evasion
 - Building hands-on experience with tools like Wazuh, Suricata, Fail2Ban, and Python log analysis
 
 ## What I've Learned
