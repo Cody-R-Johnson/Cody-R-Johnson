@@ -1,8 +1,8 @@
 # Hello there 👋 I'm Cody Johnson
 
-I am a cybersecurity learner and builder focused on blue team skills, practical labs, and documented investigations.
+I am a cybersecurity learner and builder focused on balanced blue and red teaming skills, practical labs, and documented investigations.
 
-I am working toward SOC analyst and security engineering roles by building real defensive infrastructure, completing structured training programs, and documenting everything along the way.
+I am working toward SOC analyst and security engineering roles by building defensive and offensive lab capability, completing structured training programs, and documenting everything along the way.
 
 ---
 
