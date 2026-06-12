@@ -54,6 +54,20 @@ A structured 7-week Blue Team training roadmap with daily hands-on modules cover
 
 ---
 
+### 🔴 [7 ATT&CKs in 7 Weeks — Red Team](https://github.com/Cody-R-Johnson/7-ATT-CKs-in-7-Weeks)
+A structured 7-week red-team learning course inspired by MITRE ATT&CK, built around a local-first fictional ACME target with practical modules covering:
+- Week 1: Reconnaissance
+- Week 2: Vulnerability Assessment
+- Week 3: Exploitation
+- Week 4: Post-Exploitation
+- Week 5: Command and Control
+- Week 6: Red Team Operations
+- Week 7: Advanced Evasion
+
+> Status: Active (local authorized training only)
+
+---
+
 ### 📋 [Google Cybersecurity Certificate Portfolio](https://github.com/Cody-R-Johnson/google-cybersecurity-certificate-portfolio)
 A portfolio of 9 hands-on projects completed through the Google Cybersecurity Professional Certificate. Covers risk assessment, vulnerability management, incident response, Linux file permissions, SQL log filtering, Python automation, and data privacy analysis.
 
